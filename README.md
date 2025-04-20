@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a developer based in Colwyn Bay, Wales, specia
 
 - 🔭 Currently working on:
   - **Personal Freelance Website**: Building a platform to showcase my portfolio and attract freelance opportunities.
-  - **Bullsheet Project**: Developing a tool aimed at [brief description of the project's purpose].
+  - **Bullsheet Project**: Developing a tool aimed at practicing stock trading.
 
 - 🌱 Learning:
   - Advanced GitHub features and community engagement strategies.
-  - Enhancing skills in [specific technologies or methodologies you're focusing on].
+  - Enhancing skills in NextJS.
 
 - 💬 Ask me about:
   - Software development best practices.
@@ -35,8 +35,8 @@ Welcome to my GitHub profile! I'm a developer based in Colwyn Bay, Wales, specia
 
 ## 🚀 Featured Projects
 
-- [Personal Freelance Website](https://github.com/JohnLindonRobinson/personal-website): A platform to showcase my portfolio and attract freelance opportunities.
-- [Bullsheet Project](https://github.com/JohnLindonRobinson/bullsheet): A tool aimed at [brief description of the project's purpose].
+- [Personal Freelance Website](https://github.com/JohnLindonRobinson/johnlindon.com): A platform to showcase my portfolio and attract freelance opportunities.
+- [Bullsheet Project](https://github.com/JohnLindonRobinson/bullsheet): A tool aimed at learning paper trading.
 
 ## 🌐 Connect with Me
 
